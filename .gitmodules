@@ -1,3 +1,6 @@
 [submodule "mule-training"]
 	path = mule-training
 	url = https://github.com/srijal/mule-training.git
+[submodule "learning-work"]
+	path = learning-work
+	url = https://github.com/srijal/learning-work.git
