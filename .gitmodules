@@ -1,0 +1,3 @@
+[submodule "mule-training"]
+	path = mule-training
+	url = https://github.com/srijal/mule-training.git
